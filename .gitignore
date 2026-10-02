@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Application downloads / temporary files
+downloads/
+
+# Third-party runtime binaries
+tools/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
